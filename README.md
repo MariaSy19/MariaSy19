@@ -25,7 +25,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariasy19&show_icons=true&locale=en&layout=compact" alt="mariasy19" /></p>
+![](https://github-readme-stats.vercel.app/api?username=MariaSy19&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MariaSy19&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSy19&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariasy19&show_icons=true&locale=en" alt="mariasy19" /></p>
 
