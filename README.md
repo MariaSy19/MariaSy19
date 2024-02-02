@@ -29,8 +29,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MariaSy19&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSy19&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariasy19&show_icons=true&locale=en" alt="mariasy19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariasy19&" alt="mariasy19" /></p>
 
 I hope you find this girly style README to your liking! Feel free to adjust anything to match your personal aesthetic. 💖
