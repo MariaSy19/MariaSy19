@@ -30,5 +30,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSy19&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-I hope you find this girly style README to your liking! Feel free to adjust anything to match your personal aesthetic. 💖
