@@ -1,8 +1,8 @@
-<h1 align="center">🌸 Hi there! I'm Maria 🌸</h1>
+<h1 align="center"> Hi there! I'm Maria </h1>
 <h3 align="center">A passionate AI Student 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariasy19&label=Profile%20views&color=ff69b4&style=flat" alt="mariasy19" /> </p>
-<h3 align="left">🌸 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/maria badran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maria badran" height="30" width="40" /></a>
 </p>
