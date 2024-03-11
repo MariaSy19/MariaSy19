@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariasy19&label=Profile%20views&color=ff69b4&style=flat" alt="mariasy19" /> </p>
 <h3 align="left"> Connect with me:</h3>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Maria Badran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Maria Mohamed) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
