@@ -6,7 +6,7 @@
 <p align="left">
   <a href="https://fb.com/maria.badran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/maria-mohamed-737502270" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria.mohamed" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/mariamohamed" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mariabassam" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/mariabassam" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mariabassam" height="30" width="40" /></a>
 </p>
 </p>
 
