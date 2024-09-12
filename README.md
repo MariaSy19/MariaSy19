@@ -5,6 +5,7 @@
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
   <a href="https://www.kaggle.com/mariabassam" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mariabassam" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/maria-mohamed-737502270/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Maria Mohamed" height="30" width="40" /></a>
 </p>
 </p>
 
